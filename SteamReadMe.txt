@@ -40,8 +40,8 @@ Thanks!
 
 [h1]Change Log[/h1]
 
-Change log is available at https://github.com/NBK_RedSpy/ImplantIndicator/blob/main/CHANGELOG.md
+Change log is available at https://github.com/NBKRedSpy/ImplantIndicator/blob/main/CHANGELOG.md
 
 [h1]Source Code[/h1]
 
-Source code is available on GitHub at https://github.com/NBK_RedSpy/ImplantIndicator
+Source code is available on GitHub at https://github.com/NBKRedSpy/ImplantIndicator

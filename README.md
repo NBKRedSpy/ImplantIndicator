@@ -26,7 +26,7 @@ If you enjoy my mods and want to buy me a coffee, check out my [Ko-Fi](https://k
 Thanks!
 
 # Change Log
-Change log is available at https://github.com/NBK_RedSpy/ImplantIndicator/blob/main/CHANGELOG.md
+Change log is available at https://github.com/NBKRedSpy/ImplantIndicator/blob/main/CHANGELOG.md
 
 # Source Code
-Source code is available on GitHub at https://github.com/NBK_RedSpy/ImplantIndicator
+Source code is available on GitHub at https://github.com/NBKRedSpy/ImplantIndicator
