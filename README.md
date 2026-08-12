@@ -1,8 +1,16 @@
-# Quasimorph ImplantIndicator
-
 ![thumbnail icon](media/thumbnail.png)
 
 # Implant indicator
+
+Changes the implant/augment indicator to green if the creature has an implant.  Color can be configured.
+
+The UI will be:
+
+|Augment|Implant|Indicator Dot|
+|--|--|--|
+|❌|❌|Not shown|
+|✔️|❌|Yellow|
+|❌|✔️|Green|
 
 Recolors the implant indicator in creature and corpse inspection windows when the inspected creature has one or more installed implants.
 
