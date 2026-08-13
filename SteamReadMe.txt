@@ -2,7 +2,7 @@
 
 [h1]Implant indicator[/h1]
 
-Recolors the implant indicator in creature and corpse inspection windows when the inspected creature has one or more installed implants.
+Changes the game's implant/augment indicator to green if the creature has an implant.
 
 [h1]Legacy Note[/h1]
 
